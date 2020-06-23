@@ -1,0 +1,6 @@
+[submodule "mb"]
+	path = mb
+	url = https://github.com/MUmarAmanat/mb
+[submodule "pages"]
+	path = pages
+	url = https://github.com/MUmarAmanat/pages
