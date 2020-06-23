@@ -1,6 +1,6 @@
 [submodule "mb"]
 	path = mb
-	url = /home/umcr7/project/django/mb/
+	url = https://github.com/MUmarAmanat/message-board
 [submodule "pages"]
 	path = pages
-	url = /home/umcr7/project/django/pages/
+	url = https://github.com/MUmarAmanat/pages
