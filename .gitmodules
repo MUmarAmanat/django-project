@@ -4,3 +4,6 @@
 [submodule "pages"]
 	path = pages
 	url = https://github.com/MUmarAmanat/pages
+[submodule "blog"]
+	path = blog
+	url = https://github.com/MUmarAmanat/blog-app
