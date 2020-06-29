@@ -7,3 +7,9 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/MUmarAmanat/blog-app
+[submodule "newspaper"]
+	path = newspaper
+	url = https://github.com/MUmarAmanat/newspaper
+[submodule "news"]
+	path = news
+	url = https://github.com/MUmarAmanat/newspaper
